@@ -2,7 +2,7 @@
 
 Practical to accompany a minitutorial held at SIAM GS 2021. We explore the ideas of uncovering dynamical regimes and theoretical discovery using machine learning, using both synthetic data, and data from Sonnewald et al. 2021. The material is in the shape of a `binder', so no installation is nessesairy to execute and play with the code. Simply click the button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/SIAM_ML4Ocean/HEAD?filepath=MT4_2%20Machine%20Learning%20Techniques%20in%20Oceanography.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/SIAM_ML4Ocean/HEAD)
 
 
 Data is available in unprecedented amounts, and machine learning merges together statistics, computer science, mathematics, physics, and many more to create tools to explore it. Increasingly, the analysis capability is also increasing, and it is being made available to anyone with a laptop, through open source initiatives e.g. within the Python ecosystem. This is a very exciting development for oceanography as a field, but should be applied with care and robustness of applications validated as far as possible.
